@@ -1,0 +1,12 @@
+--- Sample Question ---
+{
+  "id": 1,
+  "type": "single",
+  "question": "中国封建社会政治的基本特征是⾼度中央集权的()",
+  "options": [
+    "A. 封建君主专制制度 B. 封建宗法等级制度",
+    "C. 君主⽴宪制 D. 宗族家⻓制"
+  ],
+  "answer": "A",
+  "explanation": ""
+}
